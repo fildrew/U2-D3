@@ -1,0 +1,30 @@
+
+html,
+body {
+  height: 100vh;
+  color: #742305;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  margin-left: 0.5em;
+}
+
+.sectionText {
+  display: flex;
+  flex-direction: column;
+  margin: 0.8em;
+}
+
+.text {
+  background-color: #fbf7e3;
+  border-radius: 30px;
+  padding: 0.8em;
+}
+.text img {
+  width: 100%;
+}
+
